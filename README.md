@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Philiparolfe
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning javascript frameworks
-- 💞️ I’m looking to collaborate on web3 projects
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me @philiprolfe
 
 <!---
