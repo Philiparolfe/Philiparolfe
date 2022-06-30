@@ -8,7 +8,7 @@ I've been learning to code for 5 years starting with a Raspberry Pi and Python. 
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [philip.rolfe@icloud.com](mailto:philip.rolfe@icloud.com)
-* 🧠  I'm learning SOLID principles
+* 🧠  I'm learning Linting
 * ⚡  I'm secretly a musician, but don't tell anyone...
 
 <a href="https://www.twitter.com/philiprolfe" target="_blank" rel="noreferrer"><img
