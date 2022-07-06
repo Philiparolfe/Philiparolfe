@@ -4,7 +4,7 @@ Hi 👋 My name is Philip Rolfe
 Web Developer
 -------------
 
-I've been learning to code for 5 years starting with a Raspberry Pi and Python. Recently, I've switched careers and have found a passion for fullstack web development. I am currently learning web development through The Odin Project https://www.theodinproject.com/
+I've been learning to code for 5 years starting with a Raspberry Pi and Python. Recently, I've switched careers and have found a passion for fullstack development. I am currently learning web development through The Odin Project https://www.theodinproject.com/
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [philip.rolfe@icloud.com](mailto:philip.rolfe@icloud.com)
