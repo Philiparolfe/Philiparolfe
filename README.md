@@ -4,11 +4,11 @@ Hi 👋 My name is Philip Rolfe
 Web Developer
 -------------
 
-I've been learning to code for 5 years starting with a Raspberry Pi and Python. Recently, I've switched careers and have found a passion for fullstack development. I am currently learning web development through The Odin Project https://www.theodinproject.com/
+I've been learning to code for 5 years starting with a Raspberry Pi and Python. Recently, I've switched careers and have found a passion for Computer Science
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me at [philip.rolfe@icloud.com](mailto:philip.rolfe@icloud.com)
-* 🧠  I'm learning about computer systems technology at George Brown Collage 
+* ✉️  You can contact me here
+* 🧠  I'm learning computer systems technology at George Brown Collage 
 * ⚡  I'm secretly a musician, but don't tell anyone...
 
 <a href="https://www.twitter.com/philiprolfe" target="_blank" rel="noreferrer"><img
