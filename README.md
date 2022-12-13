@@ -4,12 +4,12 @@ Hi 👋 My name is Philip Rolfe
 Web Developer
 -------------
 
-I've been learning to code for 5 years starting with a Raspberry Pi and Python. Recently, I've switched careers and have found a passion for Computer Science
+Philip Rolfe is a computer systems technology student with a passion for all things technological. He is now pursuing an advanced diploma in computer systems technology and is always searching for new challenges to take on. Philip is keen to continue learning and improving as a technology professional, and He is enthusiastic to see where his abilities will take him in the future.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me here
-* 🧠  I'm learning computer systems technology at George Brown Collage 
-* ⚡  I'm secretly a musician, but don't tell anyone...
+* 🧠  I'm studying computer systems technology at George Brown Collage 
+* ⚡  I'm secretly a musician
 
 <a href="https://www.twitter.com/philiprolfe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/philiprolfe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
