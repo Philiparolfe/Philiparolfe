@@ -1,10 +1,10 @@
 Hi 👋 My name is Philip Rolfe
 =============================
 
-Web Developer
+
 -------------
 
-Philip Rolfe is a computer systems technology student with a passion for all things technological. He is now pursuing an advanced diploma in computer systems technology and is always searching for new challenges to take on. Philip is keen to continue learning and improving as a technology professional, and He is enthusiastic to see where his abilities will take him in the future.
+I am a computer systems technology student with a passion for all things technological. I'm now pursuing an advanced diploma in computer systems technology and I am always searching for new challenges to take on. I'm keen to continue learning and improving as a technology professional, and I'm enthusiastic to see where my abilities will take me in the future.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me here
