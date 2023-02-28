@@ -4,7 +4,7 @@ Hi 👋 My name is Philip Rolfe
 
 -------------
 
-I am a computer systems technology student with a passion for all things technological. I'm now pursuing an advanced diploma in computer systems technology and I am always searching for new challenges to take on. I'm keen to continue learning and improving as a technology professional, and I'm enthusiastic to see where my abilities will take me in the future.
+I am a computer systems technology student with a passion for all things technological. I'm currently studying for an advanced diploma in this field and actively seeking out innovative & stimulating endeavours. I'm eager to further develop my skills as a tech-savvy professional, enthused to see where my talents might lead me in the long run.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me here
