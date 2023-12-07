@@ -8,7 +8,7 @@ I am a computer systems technology student with a passion for all things technol
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me here
-* 🧠  I'm studying computer systems technology at George Brown Collage 
+* 🧠  I'm studying computer systems technology at George Brown College 
 * ⚡  My favorite language is Python
 
 <a href="https://www.twitter.com/philiprolfe" target="_blank" rel="noreferrer"><img
