@@ -7,8 +7,7 @@ Hi 👋 My name is Philip Rolfe
 I am a computer systems technology student with a passion for all things technological. I'm currently studying for an advanced diploma in this field and actively seeking out innovative & stimulating endeavours. I'm eager to further develop my skills as a tech-savvy professional, enthused to see where my talents might lead me in the long run.
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me here
-* 🧠  I'm studying computer systems technology at George Brown College 
+* 🧠  Computer systems technology Graduate from George Brown College 
 * ⚡  My favorite language is Python
 
 <a href="https://www.twitter.com/philiprolfe" target="_blank" rel="noreferrer"><img
